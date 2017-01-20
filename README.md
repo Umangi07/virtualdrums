@@ -1,6 +1,6 @@
 
 # Virtual Drums
-A repository containing the arduino codes and the python code used to make six piece drum set (excluding the toms).
+A repository containing the arduino codes and the python code used to make a six piece drum set (excluding the toms).
 FL Studio was the music software used to play the sounds.
 
 # Source Programs
